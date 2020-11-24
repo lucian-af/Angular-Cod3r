@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+.alterar {
+  margin-right: 10px;
+}
+
+.alterar > i {
+  color: #d9cd26;
+}
+
+.excluir > i {
+  color: #e35e6b;
+}
